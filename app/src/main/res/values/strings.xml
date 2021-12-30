@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz Karo</string>
+    <string name="choose_category">. Choose Category</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play"><![CDATA[Play &]]></string>
+</resources>

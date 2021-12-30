@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619213129309",
+    "project_id": "quiz-app-cdadb",
+    "storage_bucket": "quiz-app-cdadb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619213129309:android:e588df5b55019ceca22fb4",
+        "android_client_info": {
+          "package_name": "com.abhishekmaurya.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619213129309-g72uau2e8djeg1b7aau1oarujqassjkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjPb8YVWGM57ZzXoEwemKKdO34CPtxVbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619213129309-g72uau2e8djeg1b7aau1oarujqassjkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
